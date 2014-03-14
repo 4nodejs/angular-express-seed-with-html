@@ -12,5 +12,6 @@ exports.index = function(req, res) {
 
 exports.partials = function (req, res) {
  	var name = req.params.name;
+ 	console.log(name);
   	res.sendfile(filePath + 'partials/' + name + '.html');
 };
