@@ -1,20 +1,4 @@
-# Angular Express Seed With HTML
 
-This is an Angular / Express seed project is which adapted from Brian Ford's Angular Express Seed (<https://github.com/btford/angular-express-seed>). Credit also goes to Mr. Ford for the intro and how to use sections of this readme.
-
-Instead of using the Jade templating engine; however, this seed uses HTML for markup.
-
-## Intro
-
-Start an awesome app with AngularJS on the front, Express + Node on the back. This project is an
-application skeleton for a typical [AngularJS](http://angularjs.org/) web app for those who want
-to use Node to serve their app.
-
-The seed contains angular libraries, test libraries and a bunch of scripts all preconfigured for
-instant web development gratification. Just clone the repo (or download the zip/tarball) and
-you're ready to develop your application.
-
-The seed app shows how to wire together Angular client-side components with Express on the server.
 
 ## How to use angular-express-seed
 
